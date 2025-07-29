@@ -1,1 +1,2 @@
-#простенький tcp client с комментариями на Русском языке( a simple tcp client with Russian comments)
+# простенький tcp client на nasm с комментариями на Русском языке( a simple tcp client with Russian comments)
+и утилита представляющая собой bash скрипт, для представления номера порта и IP адреса в сетевом порядке байт
